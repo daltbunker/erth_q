@@ -1,0 +1,12 @@
+:root {
+  color-scheme: light dark;
+  padding: 10px 40px;
+}
+
+
+@media (prefers-color-scheme: light) {
+  :root {
+    color: #213547;
+    background-color: #ffffff;
+  }
+}
